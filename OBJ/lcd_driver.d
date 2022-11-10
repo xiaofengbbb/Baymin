@@ -1,0 +1,12 @@
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\Lcd_Driver.c
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\stm32f10x.h
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\core_cm3.h
+..\obj\lcd_driver.o: F:\APP\MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\system_stm32f10x.h
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\stm32f10x_conf.h
+..\obj\lcd_driver.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\lcd_driver.o: ..\USER\stm32f10x.h
+..\obj\lcd_driver.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\Lcd_Driver.h
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\LCD_Config.h
+..\obj\lcd_driver.o: ..\HARDWARE\TFT\delay.h

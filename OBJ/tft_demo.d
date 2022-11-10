@@ -1,0 +1,14 @@
+..\obj\tft_demo.o: ..\HARDWARE\TFT\TFT_demo.c
+..\obj\tft_demo.o: ..\HARDWARE\TFT\stm32f10x.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\core_cm3.h
+..\obj\tft_demo.o: F:\APP\MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\system_stm32f10x.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\stm32f10x_conf.h
+..\obj\tft_demo.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\tft_demo.o: ..\USER\stm32f10x.h
+..\obj\tft_demo.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\Lcd_Driver.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\GUI.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\delay.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\Picture.h
+..\obj\tft_demo.o: ..\HARDWARE\TFT\TFT_demo.h
