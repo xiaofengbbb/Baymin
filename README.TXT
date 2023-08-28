@@ -1,35 +1,10 @@
-ÊµÑéÆ÷²Ä:
-	MiniSTM32F103¿ª·¢°åV3°æ±¾
-	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°GPIO×÷ÎªÊäÈëµÄÊ¹ÓÃ
-	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPA8),DS1(Á¬½ÓÔÚPD2)
-	2,°´¼üKEY0(PC5)/KEY1(PA15)/KEY_UP(PA0,Ò²³ÆÖ®ÎªWK_UP)
-	
-ÊµÑéÏÖÏó:
-	±¾ÊµÑéÍ¨¹ý¿ª·¢°åÉÏÔØÓÐµÄ3¸ö°´Å¥£¨KEY_UP¡¢KEY0¡¢KEY1£©£¬À´¿ØÖÆ°åÉÏµÄ2¸öLED£¨DS0ºÍDS1£©£¬
-	ÆäÖÐKEY0¿ØÖÆDS0£¬°´Ò»´ÎÁÁ£¬ÔÙ°´Ò»´Î£¬¾ÍÃð¡£KEY1¿ØÖÆDS1£¬Ð§¹ûÍ¬KEY0¡£KEY_UPÔòÍ¬Ê±¿ØÖÆ
-	DS0ºÍDS1£¬°´Ò»´Î£¬ËûÃÇµÄ×´Ì¬¾Í·­×ªÒ»´Î¡£
-	
-×¢ÒâÊÂÏî:
-	1,²»Òª°Ñ1820ºÍPA0µÄÌøÏßÃ±ÌøÉÏ,·ñÔò¿ÉÄÜµ¼ÖÂ°´¼ü"²»Áé". 
-	
+å®žéªŒå™¨æ:
+	MiniSTM32F103å¼€å‘æ¿V3ç‰ˆæœ¬
 
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-3-06
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
 
 
 
 2022.11.1
-	ÏÔÊ¾Æ÷Õý³£ÏÔÊ¾
-	WIFIÕý³£ÁªÍ¨
-	ÔÆÆ½Ì¨Õý³£ÁªÍ¨
+	æ˜¾ç¤ºå™¨æ­£å¸¸æ˜¾ç¤º
+	WIFIæ­£å¸¸è”é€š
+	äº‘å¹³å°æ­£å¸¸è”é€š
